@@ -2,9 +2,18 @@
 
 An AI marketing operating system that learns a business, plans campaigns, creates content, supports publishing, and improves from results.
 
+## Public Case Study
+
+https://flashcoding.ca/projects/ai-social-media/
+
 ## Live Website
 
 https://aisocialmedia.flashcoding.ca/
+
+## Built By
+
+Flash Coding  
+https://flashcoding.ca/
 
 ## Project Type
 
